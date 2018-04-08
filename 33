@@ -1,0 +1,6 @@
+#incldue <Stdio.h>
+void main()
+{
+int test;
+  printf("%d", test);
+}
